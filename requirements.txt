@@ -1,0 +1,10 @@
+fastapi==0.115.5
+nltk==3.9.1
+numpy==2.0.2
+pandas==2.2.3
+python-terrier==0.11.0
+scikit-learn==1.5.2
+Tashaphyne==0.3.6
+threadpoolctl==3.5.0
+uvicorn==0.32.1
+
