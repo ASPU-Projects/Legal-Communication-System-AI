@@ -31,7 +31,4 @@ This project is a **recommendation system** for a legal assistance platform, bui
 | Uvicorn        | ASGI server                        |
 | Pandas         | Data handling                      |
 
----
-
-## 📁 Project Structure
 
